@@ -1,0 +1,23 @@
+name: ChannelSimulator
+basedir: /home/joe/Grad School/EEL_6509/
+webdir: 
+template: 
+word_wrap: 0
+recent_files: /home/joe/Grad School/EEL_6509/awgn.py
+recent_files: /home/joe/Grad School/EEL_6509/symboldict.py
+recent_files: /home/joe/Grad School/EEL_6509/demodulator.py
+recent_files: /home/joe/Grad School/EEL_6509/channelaudio.py
+recent_files: /home/joe/Grad School/EEL_6509/ChannelSimulator.py
+recent_files: /home/joe/Grad School/EEL_6509/modulation.py
+recent_files: /home/joe/Grad School/EEL_6509/pulses.py
+recent_files: /home/joe/Grad School/EEL_6509/rayleighfade.py
+recent_files: /home/joe/Grad School/EEL_6509/channelsimworkspace.py
+recent_files: /home/joe/Grad School/EEL_6509/cursesuser.py
+recent_files: /home/joe/Grad School/EEL_6509/plotseries.py
+recent_files: /home/joe/Grad School/EEL_6509/rayleightest.py
+opendir: /home/joe/Grad School/EEL_6509
+savedir: /home/joe/Grad School/EEL_6509
+view_html_toolbar: 0
+view_custom_menu: 1
+view_main_toolbar: 1
+view_left_panel: 1
